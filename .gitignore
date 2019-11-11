@@ -1,0 +1,4 @@
+#all hidom files and folders
+.*
+#exept .gitignore file
+!.gitignore
